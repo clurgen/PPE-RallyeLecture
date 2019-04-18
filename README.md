@@ -2,18 +2,16 @@
 
 **Présentation du projet**
 
->Le but de l'application est de pouvoir à partir d'une liste des élèvès d'une classe creer des logins et des mots de passe qui permettront 
+Le but de l'application est de pouvoir à partir d'une liste des élèvès d'une classe creer des logins et des mots de passe qui permettront 
 d'alimenter une base de données chaque élève ait un compte.
-
-**Structure de la base de données**
 
 **La BDD**
 ![alt text](https://github.com/clurgen/PPE-RallyeLecture/blob/master/schemaDbRallyeLecture.PNG)
 
 **Les tables aauth_user**
+
 ![alt text](https://github.com/clurgen/PPE-RallyeLecture/blob/master/schemaDbAauth.PNG)
 
-**Cas d'utilisation**
 ![alt text](https://github.com/clurgen/PPE-RallyeLecture/blob/master/Use_Case_Diagram.png)
 
 **Application Windows form**
