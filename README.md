@@ -7,18 +7,19 @@ d'alimenter une base de données chaque élève ait un compte.
 
 **Structure de la base de données**
 
->La base complète
+**La BDD**
 ![alt text](https://github.com/clurgen/PPE-RallyeLecture/blob/master/schemaDbRallyeLecture.PNG)
 
->Les tables aauth_user
+**Les tables aauth_user**
 ![alt text](https://github.com/clurgen/PPE-RallyeLecture/blob/master/schemaDbAauth.PNG)
 
-**Interface**
->L'interface permet d'inscrire chaque élève dans la base de données afin de l'alimenter et de plus de leur créer un login, un mot de passe contruit ou aléatoire, et de connaître leur niveau scolaire et l'année scolaire en cours.
+**Cas d'utilisation**
+![alt text](https://github.com/clurgen/PPE-RallyeLecture/blob/master/Use_Case_Diagram.png)
 
 **Application Windows form**
+>L'interface permet d'inscrire chaque élève dans la base de données afin de l'alimenter et de plus de leur créer un login, un mot de passe contruit ou aléatoire, et de connaître leur niveau scolaire et l'année scolaire en cours.
 
 ![alt text](https://github.com/clurgen/PPE-RallyeLecture/blob/master/Interface.JPG)
 
 *Language et Outils*
-C# (Widows Form)
+C# (Widows Form), Visual Studio
