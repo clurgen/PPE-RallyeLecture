@@ -22,4 +22,4 @@ de creer des logins et des mots de passe qui permettront d'alimenter une base de
 *Language et Outils*
 
 >C# (Widows Form), SQL
->Visual Studio, MySql, Sublim Text
+Visual Studio, MySql, Sublim Text
