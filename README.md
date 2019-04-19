@@ -13,9 +13,11 @@ de creer des logins et des mots de passe qui permettront d'alimenter une base de
 ![alt text](https://github.com/clurgen/PPE-RallyeLecture/blob/master/schemaDbAauth.PNG)
 
 **Le diagramme de classe**
+
 ![alt text](https://github.com/clurgen/PPE-RallyeLecture/blob/master/Diagramme%20de%20classe.PNG)
 
 **Les classe metiers**
+
 ![alt text](https://github.com/clurgen/PPE-RallyeLecture/blob/master/ClasseMetier.PNG)
 
 ![alt text](https://github.com/clurgen/PPE-RallyeLecture/blob/master/Use_Case_Diagram.png)
